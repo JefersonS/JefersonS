@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Jeferson Euclides, and yes my handle is JefersonS cause JefersonEuclides was taken 10 years ago... pretty sad.
+
+I'm a software engineer with over nine years of experience in designing, developing, and maintaining applications. I'm passionate about engineering and most things around this world of softwares.
+
+Contact me through my Linkedin if you want to get in touch: [Linkedin](https://www.linkedin.com/in/jefersoneuclides/)
+
+I'm also currently getting things in order around here, so I'll be posting updates to the existing projects and also new ones.
+If you want to follow this ☝️ up and close, I'll be streaming it on [Twitch](https://www.twitch.tv/jefersoneuclid3s) too :)
 <!--
 **JefersonS/JefersonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
