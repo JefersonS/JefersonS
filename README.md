@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-My name is Jeferson Euclides, and yes my handle is JefersonS cause JefersonEuclides was taken 10 years ago... pretty sad.
-
 I'm a software engineer with over nine years of experience in designing, developing, and maintaining applications. I'm passionate about engineering and most things around this world of softwares.
 
 Contact me through my Linkedin if you want to get in touch: [Linkedin](https://www.linkedin.com/in/jefersoneuclides/)
