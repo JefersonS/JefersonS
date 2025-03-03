@@ -5,7 +5,7 @@ I'm a software engineer with over nine years of experience in designing, develop
 Contact me through my Linkedin if you want to get in touch: [Linkedin](https://www.linkedin.com/in/jefersoneuclides/)
 
 I'm also currently getting things in order around here, so I'll be posting updates to the existing projects and also new ones.
-If you want to follow this ☝️ up and close, I'll be streaming it on [Twitch](https://www.twitch.tv/jefersoneuclid3s) too :)
+If you want to follow this ☝️ up and close, I'll be streaming it on Twitch too :)
 <!--
 **JefersonS/JefersonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
