@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with over nine years of experience in designing, developing, and maintaining web applications. I'm passionate about engineering and most things around this world.
+I'm a software engineer with over ten years of experience in designing, developing, and maintaining web applications. I'm passionate about engineering and most things around this world.
 
 Contact me through my Linkedin if you want to get in touch: [Linkedin](https://www.linkedin.com/in/jefersoneuclides/)
 
